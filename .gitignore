@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.iml
+.idea
+target
+rebel*.xml
+.DS_Store
+
+!same-name-0.0.1.jar
+!same-name-0.0.2.jar
